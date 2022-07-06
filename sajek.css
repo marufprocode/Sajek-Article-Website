@@ -1,0 +1,38 @@
+body{Margin : 0px;
+   padding : 0px;
+   }   
+.main{
+   width: 100%;
+   background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/blogZ0l0jH86lLizQsqRGUJkeJf-dNjfy-nT.jpg);
+   background-position: center;
+   background-size: cover;
+   height: 100vh;
+   padding-top: 20px;
+}
+.container{
+   width: 500px;
+   height: fit-content;
+   background-color: rgba(135, 151, 222, 0.5);
+   margin: 0px auto;
+   padding: 10px;
+   border-radius: 10px;
+}
+.title{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   text-align: center;
+   text-decoration: underline;
+}
+.para{
+   text-align: justify;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button-grp{
+   padding: 5px 10px;
+}
+.btn{
+   color: azure;
+   background-color: rgb(138, 43, 226);
+   padding: 10px;
+   text-transform: uppercase;
+}
+
